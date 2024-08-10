@@ -1,6 +1,7 @@
 
 In [English](#english)
 
+---
 
 ## ¡Hola, soy Sergio!👋
 
@@ -12,7 +13,10 @@ Aquí compartiré algunos de los proyectos que lleve a cabo.
 
 - 🔭 Estoy trabajando en un proyecto de extracción y análisis de datos. 
 - 🌱 Estoy aprendiendo Kotlin. 
-- 📫 Cómo contactarme: srg.mrtn.vqr@gmail.com 
+- 📫 Cómo contactarme: srg.mrtn.vqr@gmail.com
+
+### Enlace de mi Tableau: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://public.tableau.com/app/profile/srg.mrtn.vqr/vizzes)  
+---
 
 ### Habilidades
 #### Lenguajes de programación:
@@ -32,10 +36,12 @@ Aquí compartiré algunos de los proyectos que lleve a cabo.
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+---
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srgmrtnvqr)](https://github.com/anuraghazra/github-readme-stats)    ![GitHub streak stats](https://streak-stats.demolab.com/?user=srgmrtnvqr)  
 
+---
 
 ### English
 
@@ -51,6 +57,10 @@ Here I'll share some of the projects I've completed.
 - 🔭 I'm currently working on a data extraction and analysis project.
 - 🌱 I'm currently learning Kotlin.
 - 📫 How to reach me: srg.mrtn.vqr@gmail.com
+
+
+### Link to my Tableau: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://public.tableau.com/app/profile/srg.mrtn.vqr/vizzes)  
+---
 
 ### Skills
 #### Programming Languages:
@@ -70,6 +80,7 @@ Here I'll share some of the projects I've completed.
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+---
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srgmrtnvqr)](https://github.com/anuraghazra/github-readme-stats)    ![GitHub streak stats](https://streak-stats.demolab.com/?user=srgmrtnvqr) 
