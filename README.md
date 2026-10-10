@@ -7,12 +7,12 @@ In [English](#english)
 
 🌍 Madrid, España
 
-Estoy realizando el último curso del grado en Ingeniería de Computadores.
+Estoy cursando el Máster Universitario en Análisis de Datos Deportivos.
 
 Aquí compartiré algunos de los proyectos que lleve a cabo.
 
 - 🔭 Estoy trabajando en un proyecto de extracción y análisis de datos. 
-- 🌱 Estoy aprendiendo Kotlin. 
+- 🌱 Estoy aprendiendo R. 
 - 📫 Cómo contactarme: srg.mrtn.vqr@gmail.com
 
 ### Enlace de mi Tableau: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://public.tableau.com/app/profile/srg.mrtn.vqr/vizzes)  
@@ -50,12 +50,12 @@ Aquí compartiré algunos de los proyectos que lleve a cabo.
 
 🌍 Madrid, Spain
 
-I'm currently in the final year of my degree in Computer Engineering.
+I'm currently pursuing a Master's Degree in Sports Analytics.
 
 Here I'll share some of the projects I've completed.
 
 - 🔭 I'm currently working on a data extraction and analysis project.
-- 🌱 I'm currently learning Kotlin.
+- 🌱 I'm currently learning R.
 - 📫 How to reach me: srg.mrtn.vqr@gmail.com
 
 
